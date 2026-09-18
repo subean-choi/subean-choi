@@ -18,12 +18,12 @@
     <text x="1128" y="59" fill="#F0F6FC" font-size="13" font-weight="700" letter-spacing="2">접속 중</text>
 
     <text x="46" y="155" fill="#F0F6FC" font-size="74" font-weight="900" letter-spacing="-3">SUBIN</text>
-    <text x="49" y="194" fill="#FF5CA8" font-size="18" font-weight="800" letter-spacing="3">조용히 보고 / 확실하게 만든다</text>
+    <text x="49" y="194" fill="#FF5CA8" font-size="18" font-weight="800" letter-spacing="3">작은 차이를 오래 보는 사람</text>
     <path d="M48 226H520" stroke="#30363D" stroke-width="2"/>
     <text x="48" y="267" fill="#8B949E" font-size="15" letter-spacing="3">공개 작업</text>
     <text x="48" y="310" fill="#F0F6FC" font-size="28" font-weight="700">컴퓨터 비전</text>
-    <text x="48" y="351" fill="#C9D1D9" font-size="18">작은 차이 → 더 선명한 시스템</text>
-    <text x="48" y="403" fill="#E7B72B" font-size="15">깨달음까지 한 커밋_</text>
+    <text x="48" y="351" fill="#C9D1D9" font-size="18">복잡한 장면에서 필요한 의미를 찾습니다</text>
+    <text x="48" y="403" fill="#E7B72B" font-size="15">보이는 것보다 잘 보이게_</text>
 
     <path d="M594 90V408" stroke="#30363D" stroke-width="2"/>
     <g font-family="Noto Sans KR, Arial, sans-serif">
@@ -33,14 +33,14 @@
       <text x="646" y="196" fill="#8B949E" font-size="14" letter-spacing="2">도구</text>
       <text x="820" y="196" fill="#F0F6FC" font-size="18" font-weight="700">PYTHON / PYTORCH / OPENCV</text>
       <path d="M646 220H1146" stroke="#30363D"/>
-      <text x="646" y="264" fill="#8B949E" font-size="14" letter-spacing="2">마음</text>
-      <text x="820" y="264" fill="#FF5CA8" font-size="20" font-weight="700">대체로 평온</text>
+      <text x="646" y="264" fill="#8B949E" font-size="14" letter-spacing="2">작업 방식</text>
+      <text x="820" y="264" fill="#FF5CA8" font-size="20" font-weight="700">천천히 보고 정확히</text>
       <path d="M646 288H1146" stroke="#30363D"/>
-      <text x="646" y="332" fill="#8B949E" font-size="14" letter-spacing="2">버그</text>
-      <text x="820" y="332" fill="#E7B72B" font-size="20" font-weight="700">관찰 중</text>
+      <text x="646" y="332" fill="#8B949E" font-size="14" letter-spacing="2">기준</text>
+      <text x="820" y="332" fill="#E7B72B" font-size="20" font-weight="700">단순하게, 단단하게</text>
       <path d="M646 356H1146" stroke="#30363D"/>
-      <text x="646" y="400" fill="#8B949E" font-size="14" letter-spacing="2">작업 트리</text>
-      <text x="820" y="400" fill="#F0F6FC" font-size="20" font-weight="700">묻지 마세요</text>
+      <text x="646" y="400" fill="#8B949E" font-size="14" letter-spacing="2">작업 리듬</text>
+      <text x="820" y="400" fill="#F0F6FC" font-size="20" font-weight="700">오래 보고 짧게 고치기</text>
     </g>
   </g>
 

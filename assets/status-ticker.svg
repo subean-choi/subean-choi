@@ -1,6 +1,6 @@
 <svg width="1200" height="168" viewBox="0 0 1200 168" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">수빈의 상태 송출창</title>
-  <desc id="desc">검정, 분홍, 금색으로 구성된 장난스러운 개발 상태 송출창.</desc>
+  <desc id="desc">조용한 작업과 사소한 개발 순간을 흘려보내는 실시간 상태 송출창.</desc>
   <defs>
     <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#FF5CA8"/><stop offset=".5" stop-color="#E7B72B"/><stop offset="1" stop-color="#FF5CA8"/></linearGradient>
     <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -14,7 +14,7 @@
   <g clip-path="url(#screen)">
     <g font-family="Noto Sans KR, Arial Black, Arial, sans-serif" font-size="30" font-weight="900" letter-spacing="2">
       <text y="111" fill="#F5F5F5">
-        <tspan fill="#FF5CA8">대체로 평온</tspan><tspan>  //  버그 관찰 중  //  </tspan><tspan fill="#E7B72B">업보: 깨끗함</tspan><tspan>  //  작업 트리: 묻지 마세요  //  </tspan><tspan fill="#FF5CA8">대체로 평온</tspan>
+        <tspan fill="#FF5CA8">조용히 작업 중</tspan><tspan>  //  에러와 협상 중  //  </tspan><tspan fill="#E7B72B">저장은 자주</tspan><tspan>  //  오늘도 한 픽셀 더  //  </tspan><tspan fill="#FF5CA8">조용히 작업 중</tspan>
         <animate attributeName="x" values="1180;-1680" dur="18s" repeatCount="indefinite"/>
       </text>
     </g>
