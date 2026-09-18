@@ -86,7 +86,7 @@ def render(rows: list[tuple[datetime, int]]) -> str:
   <g>{''.join(bars)}</g>
   <g font-family="Courier New, monospace">{''.join(labels)}</g>
   <path d="M48 365H976" stroke="#30363D" stroke-width="2"/>
-  <text x="48" y="394" fill="#C9D1D9" font-family="Noto Sans KR, Arial, sans-serif" font-size="14" letter-spacing="2">업보: 깨끗함 / 버그: 관찰 중 / 깨달음까지 한 커밋</text>
+  <text x="48" y="394" fill="#C9D1D9" font-family="Noto Sans KR, Arial, sans-serif" font-size="14" letter-spacing="2">커밋은 쌓이고 / 기록은 남고 / 업보는 자동 갱신</text>
 
   <g transform="translate(1030 172)">
     <circle cx="54" cy="62" r="68" fill="#FF5CA8" opacity=".08" filter="url(#glow)"/>
