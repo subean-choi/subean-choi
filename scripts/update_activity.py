@@ -78,15 +78,15 @@ def render(rows: list[tuple[datetime, int]]) -> str:
   <rect x="2" y="2" width="1196" height="416" rx="10" fill="url(#ledger)" clip-path="url(#frame)"/>
   <path d="M2 2H1198" stroke="url(#edge)" stroke-width="8"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="48" y="58" fill="#8B949E" font-size="14" font-weight="700" letter-spacing="5">02 / PUBLIC SIGNAL</text>
+    <text x="48" y="58" fill="#8B949E" font-size="14" font-weight="700" letter-spacing="5">02 / 공개 신호</text>
     <text x="48" y="113" fill="#F0F6FC" font-size="46" font-weight="900" letter-spacing="-1">KARMA LOG</text>
-    <text x="50" y="144" fill="#FF5CA8" font-family="Courier New, monospace" font-size="14" letter-spacing="2">LAST 21 DAYS / {total:02d} PUBLIC EVENTS</text>
-    <text x="1150" y="57" text-anchor="end" fill="#8B949E" font-family="Courier New, monospace" font-size="12">REFRESHED {updated}</text>
+    <text x="50" y="144" fill="#FF5CA8" font-family="Noto Sans KR, Arial, sans-serif" font-size="14" letter-spacing="2">최근 21일 / 공개 활동 {total:02d}건</text>
+    <text x="1150" y="57" text-anchor="end" fill="#8B949E" font-family="Noto Sans KR, Arial, sans-serif" font-size="12">갱신 {updated}</text>
   </g>
   <g>{''.join(bars)}</g>
   <g font-family="Courier New, monospace">{''.join(labels)}</g>
   <path d="M48 365H976" stroke="#30363D" stroke-width="2"/>
-  <text x="48" y="394" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" letter-spacing="2">KARMA: CLEAN / BUGS: OBSERVED / ONE COMMIT CLOSER</text>
+  <text x="48" y="394" fill="#C9D1D9" font-family="Noto Sans KR, Arial, sans-serif" font-size="14" letter-spacing="2">업보: 깨끗함 / 버그: 관찰 중 / 깨달음까지 한 커밋</text>
 
   <g transform="translate(1030 172)">
     <circle cx="54" cy="62" r="68" fill="#FF5CA8" opacity=".08" filter="url(#glow)"/>
