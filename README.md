@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/status-ticker.svg" alt="대체로 평온. 버그 관찰 중. 작업 트리: 묻지 마세요. 업보: 깨끗함." width="100%" />
+  <img src="./assets/status-ticker.svg" alt="조용히 작업 중. 에러와 협상 중. 저장은 자주. 오늘도 한 픽셀 더." width="100%" />
 </p>
 
   <img src="./assets/monk-os.svg" alt="MONK OS 공개 프로필 콘솔" width="100%" />
@@ -28,11 +28,11 @@
 <summary><strong>🪷 속마음 로그 열기</strong></summary>
 <br />
 
-`마음: 대체로 평온`<br />
-`버그: 관찰 중`<br />
-`마감: 깨달음에 접근 중`<br />
-`작업 트리: ...묻지 마세요`<br />
-`사이드 퀘스트: 작게 시작했으나 저장소가 된 것들`
+`요즘: 화면 속 작은 차이를 붙잡는 중`<br />
+`취향: 단순한 화면, 단단한 시스템`<br />
+`작업 리듬: 오래 보고, 짧게 고치기`<br />
+`사이드 퀘스트: 작게 시작했으나 저장소가 된 것들`<br />
+`현재 목표: 어제보다 덜 복잡하게`
 
 </details>
 
@@ -40,5 +40,5 @@
 
 <p align="center">
   <img src="./assets/lotus-mark.svg" alt="lotus" width="56" /><br />
-  <sub>깊이 보고 · 마지못해 디버깅하고 · 차분히 배포합니다 · 깨달음까지 한 커밋</sub>
+  <sub>복잡함은 덜고 · 관찰은 깊게 · 결과는 선명하게</sub>
 </p>
