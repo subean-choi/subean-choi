@@ -1,0 +1,41 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Karma Log</title>
+  <desc id="desc">A cyber-zen ledger of recent public GitHub activity for subean-choi.</desc>
+  <defs>
+    <pattern id="ledger" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0H0V29" fill="none" stroke="#30363D" opacity=".28"/></pattern>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF5CA8"/><stop offset="1" stop-color="#E7B72B"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect x="2" y="2" width="1196" height="416" rx="10"/></clipPath>
+  </defs>
+  <rect width="1200" height="420" rx="12" fill="#0D1117"/>
+  <rect x="2" y="2" width="1196" height="416" rx="10" fill="none" stroke="#30363D" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="416" rx="10" fill="url(#ledger)" clip-path="url(#frame)"/>
+  <path d="M2 2H1198" stroke="url(#edge)" stroke-width="8"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="58" fill="#8B949E" font-size="14" font-weight="700" letter-spacing="5">02 / PUBLIC SIGNAL</text>
+    <text x="48" y="113" fill="#F0F6FC" font-size="46" font-weight="900" letter-spacing="-1">KARMA LOG</text>
+    <text x="50" y="144" fill="#FF5CA8" font-family="Courier New, monospace" font-size="14" letter-spacing="2">LAST 21 DAYS / 09 PUBLIC EVENTS</text>
+    <text x="1150" y="57" text-anchor="end" fill="#8B949E" font-family="Courier New, monospace" font-size="12">REFRESHED 2026-09-18 09:34 UTC</text>
+  </g>
+  <g><rect x="52.0" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="59.0" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="95.5" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="102.5" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="139.0" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="146.0" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="182.5" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="189.5" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="226.0" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="233.0" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="269.5" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="276.5" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="313.0" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="320.0" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="356.5" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="363.5" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="400.0" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="407.0" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="443.5" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="450.5" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="487.0" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="494.0" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="530.5" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="537.5" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="574.0" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="581.0" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="617.5" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="624.5" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="661.0" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="668.0" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="704.5" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="711.5" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="748.0" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="755.0" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="791.5" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="798.5" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="835.0" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="842.0" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="878.5" y="301.0" width="24" height="14.0" rx="2" fill="#30363D" opacity="0.7"/><rect x="885.5" y="293.0" width="10" height="5" fill="#30363D" opacity="0.35"/><rect x="922.0" y="189.0" width="24" height="126.0" rx="2" fill="#F0F6FC" opacity="1"/><rect x="929.0" y="181.0" width="10" height="5" fill="#F0F6FC" opacity="0.9"/></g>
+  <g font-family="Courier New, monospace"><text x="64.0" y="344" text-anchor="middle" fill="#8B949E" font-size="11">08/29</text><text x="281.5" y="344" text-anchor="middle" fill="#8B949E" font-size="11">09/03</text><text x="499.0" y="344" text-anchor="middle" fill="#8B949E" font-size="11">09/08</text><text x="716.5" y="344" text-anchor="middle" fill="#8B949E" font-size="11">09/13</text><text x="934.0" y="344" text-anchor="middle" fill="#8B949E" font-size="11">09/18</text></g>
+  <path d="M48 365H976" stroke="#30363D" stroke-width="2"/>
+  <text x="48" y="394" fill="#C9D1D9" font-family="Courier New, monospace" font-size="14" letter-spacing="2">KARMA: CLEAN / BUGS: OBSERVED / ONE COMMIT CLOSER</text>
+
+  <g transform="translate(1030 172)">
+    <circle cx="54" cy="62" r="68" fill="#FF5CA8" opacity=".08" filter="url(#glow)"/>
+    <path d="M54 0C78 32 78 55 54 78C30 55 30 32 54 0Z" fill="#FF5CA8"/>
+    <path d="M0 33C35 36 54 54 54 91C21 84 4 65 0 33Z" fill="#B83F7A"/>
+    <path d="M108 33C73 36 54 54 54 91C87 84 104 65 108 33Z" fill="#B83F7A"/>
+    <path d="M-9 85C26 73 52 84 64 118C27 121 2 109-9 85Z" fill="#F0F6FC"/>
+    <path d="M117 85C82 73 56 84 44 118C81 121 106 109 117 85Z" fill="#F0F6FC"/>
+    <path d="M20 124H88" stroke="#E7B72B" stroke-width="5"/>
+    <circle cx="54" cy="62" r="83" fill="none" stroke="#30363D" stroke-dasharray="4 9">
+      <animateTransform attributeName="transform" type="rotate" from="0 54 62" to="360 54 62" dur="22s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <rect x="0" y="0" width="1200" height="2" fill="#FF5CA8" opacity=".8">
+    <animate attributeName="y" values="8;410;8" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.6;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
