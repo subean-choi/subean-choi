@@ -1,87 +1,105 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="SUBIN CHOI - quiet mind. sharp code." width="100%" />
+  <img src="./assets/zen-circuit.svg" alt="A golden pixel monk coding among floating graphite islands and lotus petals" width="100%" />
+</p>
+
+<h1 align="center">SUBIN CHOI</h1>
+
+<p align="center">
+  <code>computer vision monk in training</code><br />
+  <sub>번뇌는 많고, 코드는 계속 정리 중.</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/subean-choi"><img alt="GitHub" src="https://img.shields.io/badge/github-subean--choi-0d0d0d?style=flat-square&labelColor=0d0d0d&color=e9d4d8"></a>
-  <img alt="focus" src="https://img.shields.io/badge/focus-computer%20vision-0d0d0d?style=flat-square&labelColor=0d0d0d&color=f5f0e8">
-  <img alt="karma" src="https://img.shields.io/badge/karma-clean-0d0d0d?style=flat-square&labelColor=0d0d0d&color=d8a7b1">
+  <img alt="mode" src="https://img.shields.io/badge/MODE-FOCUS-151515?style=for-the-badge&labelColor=151515&color=FF6FAE" />
+  <img alt="karma" src="https://img.shields.io/badge/KARMA-CLEAN-151515?style=for-the-badge&labelColor=151515&color=D6A927" />
+  <img alt="working tree" src="https://img.shields.io/badge/WORKING_TREE-LET'S_NOT_TALK_ABOUT_IT-151515?style=for-the-badge&labelColor=151515&color=D7DADD" />
 </p>
-
-<div align="center">
-
-`Computer Vision` / `DLO` / `Graph Matching` / `Industrial AI`
-
-quiet mind. sharp code.
-
-</div>
-
-<br />
-
-## Field Notes
-
-I build visual systems that notice small structure: parts, edges, traces, defects, mismatches, and the graph hidden under the image.
-
-The current research rhythm is simple:
 
 <p align="center">
-  <img src="./assets/research-flow.svg" alt="SEE to TRACE to GRAPH to MATCH to FIND" width="100%" />
+  <a href="#about">ABOUT</a> ·
+  <a href="#inventory">INVENTORY</a> ·
+  <a href="#karma-log">KARMA LOG</a>
 </p>
 
-- **Computer Vision**: inspection, representation, visual reasoning, defect-sensitive perception
-- **DLO**: deformable linear objects, cable-like structure, topology-aware recovery
-- **Graph Matching**: node-edge consistency, correspondence, topology repair
-- **Industrial AI**: practical models for messy visual data, controlled automation, robust failure checks
+---
 
-<br />
+<a name="about"></a>
 
-## Stack
+## 01 / ABOUT
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=f5f0e8" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=d8a7b1" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=f5f0e8" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=e9d4d8" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=d8a7b1" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=f5f0e8" alt="VS Code" />
-  <img src="https://img.shields.io/badge/LaTeX-0d0d0d?style=for-the-badge&logo=latex&logoColor=e9d4d8" alt="LaTeX" />
-</p>
+> I build computer vision systems that notice what human eyes might miss.
 
-<br />
-
-## Public Work
+영상 속 작은 차이를 읽고, 복잡한 장면을 더 명확한 정보로 바꾸는 **Computer Vision** 시스템을 만듭니다.
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/subean-choi/atmosphere"><strong>atmosphere</strong></a><br />
-      <sub>public repository currently on the board</sub><br /><br />
-      <code>interface</code> <code>visual system</code> <code>experiments</code>
+    <td width="25%" align="center"><strong>LOOK</strong><br /><sub>observe closely</sub></td>
+    <td width="25%" align="center"><strong>THINK</strong><br /><sub>find the signal</sub></td>
+    <td width="25%" align="center"><strong>BUILD</strong><br /><sub>make it useful</sub></td>
+    <td width="25%" align="center"><strong>REPEAT</strong><br /><sub>one commit closer</sub></td>
+  </tr>
+</table>
+
+<a name="inventory"></a>
+
+## 02 / INVENTORY
+
+<details open>
+<summary><strong>🪷 MAIN LOADOUT</strong> — 매일 손에 잡는 것들</summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-151515?style=for-the-badge&logo=pytorch&logoColor=FF6FAE" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-151515?style=for-the-badge&logo=opencv&logoColor=F3F4F6" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=D6A927" alt="Linux" />
+</p>
+</details>
+
+<details>
+<summary><strong>🦶 SIDE QUESTS</strong> — 궁금하면 일단 밟아 봅니다</summary>
+<br />
+
+`computer vision` `image processing` `visualization` `automation`
+
+</details>
+
+<details>
+<summary><strong>💻 CURRENTLY DEBUGGING</strong> — 평온은 아직 실험 중</summary>
+<br />
+
+`clean interfaces` · `robust pipelines` · `reproducible experiments`
+
+</details>
+
+## 03 / PUBLIC PORTAL
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🪨 atmosphere</h3>
+      <p>A public visual-system experiment currently outside the cave.</p>
+      <a href="https://github.com/subean-choi/atmosphere"><strong>ENTER REPOSITORY →</strong></a>
     </td>
-    <td width="50%">
-      <strong>one commit closer.</strong><br />
-      <sub>more work appears as it becomes clean enough to leave the lab.</sub><br /><br />
-      <code>bugs: being observed</code>
+    <td width="45%" valign="top">
+      <h3>🧘 LAB STATUS</h3>
+      <p><code>mind: quiet-ish</code><br /><code>focus: computer vision</code><br /><code>bugs: being observed</code></p>
     </td>
   </tr>
 </table>
 
-<br />
+<a name="karma-log"></a>
 
-## Activity Rhythm
+## 04 / KARMA LOG
 
 <p align="center">
-  <img src="./assets/activity-lotus.svg" alt="custom lotus activity rhythm generated by GitHub Actions" width="100%" />
+  <img src="./assets/activity-lotus.svg" alt="Public GitHub activity visualized as a lotus rhythm" width="100%" />
 </p>
 
-<div align="center">
-
-`karma: clean` / `working tree: ...let's not talk about it` / `one commit closer.`
-
-</div>
-
-<br />
+<p align="center">
+  <sub>public activity refreshes automatically · one commit closer</sub>
+</p>
 
 <p align="center">
-  <img src="./assets/lotus-mark.svg" alt="lotus mark" width="74" />
+  <img src="./assets/lotus-mark.svg" alt="lotus mark" width="72" /><br />
+  <code>observe deeply. build carefully. ship calmly.</code>
 </p>
