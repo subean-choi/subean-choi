@@ -1,0 +1,15 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Lotus mark</title>
+  <desc id="desc">A minimal lotus symbol made from soft pink petals and black editorial lines.</desc>
+  <rect width="160" height="160" rx="80" fill="#0D0D0D"/>
+  <circle cx="80" cy="80" r="54" stroke="#F5F0E8" stroke-width="1.5" opacity=".65"/>
+  <circle cx="80" cy="80" r="40" stroke="#D8A7B1" stroke-width="1" opacity=".55"/>
+  <path d="M80 34C92 51 92 67 80 84C68 67 68 51 80 34Z" fill="#E9D4D8"/>
+  <path d="M48 52C68 57 78 68 80 91C60 85 49 72 48 52Z" fill="#D8A7B1"/>
+  <path d="M112 52C92 57 82 68 80 91C100 85 111 72 112 52Z" fill="#D8A7B1"/>
+  <path d="M34 88C57 84 73 91 84 112C59 113 42 105 34 88Z" fill="#F5F0E8"/>
+  <path d="M126 88C103 84 87 91 76 112C101 113 118 105 126 88Z" fill="#F5F0E8"/>
+  <path d="M58 113C67 102 93 102 102 113C88 121 72 121 58 113Z" fill="#E9D4D8"/>
+  <path d="M45 128H115" stroke="#F5F0E8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M58 137H102" stroke="#D8A7B1" stroke-width="2" stroke-linecap="round"/>
+</svg>

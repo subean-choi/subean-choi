@@ -1,0 +1,27 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SUBIN CHOI</title>
+  <desc id="desc">Editorial black, ivory, and muted pink profile header with a minimal lotus mark.</desc>
+  <rect width="1200" height="420" fill="#0D0D0D"/>
+  <path d="M0 352C158 320 270 388 418 360C556 334 638 248 780 278C944 312 1000 394 1200 346V420H0V352Z" fill="#171313"/>
+  <circle cx="970" cy="124" r="72" stroke="#F5F0E8" stroke-width="1.5" opacity=".72"/>
+  <circle cx="970" cy="124" r="48" stroke="#D8A7B1" stroke-width="1" opacity=".55"/>
+  <circle cx="970" cy="124" r="22" fill="#E9D4D8"/>
+  <path d="M970 54C989 82 989 105 970 132C951 105 951 82 970 54Z" fill="#E9D4D8"/>
+  <path d="M921 84C951 91 968 108 970 144C939 134 923 115 921 84Z" fill="#D8A7B1"/>
+  <path d="M1019 84C989 91 972 108 970 144C1001 134 1017 115 1019 84Z" fill="#D8A7B1"/>
+  <path d="M894 139C930 132 955 144 976 174C935 178 908 166 894 139Z" fill="#F5F0E8"/>
+  <path d="M1046 139C1010 132 985 144 964 174C1005 178 1032 166 1046 139Z" fill="#F5F0E8"/>
+  <path d="M250 94H742" stroke="#F5F0E8" stroke-width="2"/>
+  <path d="M250 328H948" stroke="#D8A7B1" stroke-width="2"/>
+  <text x="246" y="226" fill="#F5F0E8" font-family="Arial Black, Impact, Helvetica, sans-serif" font-size="92" font-weight="900" letter-spacing="8">SUBIN CHOI</text>
+  <text x="252" y="266" fill="#D8A7B1" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">QUIET MIND. SHARP CODE.</text>
+  <text x="252" y="302" fill="#F5F0E8" opacity=".72" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="2">COMPUTER VISION / DLO / GRAPH MATCHING / INDUSTRIAL AI</text>
+  <g opacity=".55">
+    <circle cx="90" cy="106" r="5" fill="#D8A7B1"/>
+    <circle cx="126" cy="106" r="3" fill="#F5F0E8"/>
+    <circle cx="160" cy="106" r="5" fill="#D8A7B1"/>
+    <circle cx="196" cy="106" r="3" fill="#F5F0E8"/>
+    <path d="M88 352C120 326 154 326 188 352C222 378 256 378 290 352" stroke="#E9D4D8" stroke-width="3" stroke-linecap="round"/>
+    <path d="M88 374C120 348 154 348 188 374C222 400 256 400 290 374" stroke="#D8A7B1" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
