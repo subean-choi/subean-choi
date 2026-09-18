@@ -1,6 +1,6 @@
 <svg width="1200" height="168" viewBox="0 0 1200 168" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Subin status ticker</title>
-  <desc id="desc">An animated black, pink, and gold status display with playful coding messages.</desc>
+  <title id="title">수빈의 상태 송출창</title>
+  <desc id="desc">검정, 분홍, 금색으로 구성된 장난스러운 개발 상태 송출창.</desc>
   <defs>
     <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#FF5CA8"/><stop offset=".5" stop-color="#E7B72B"/><stop offset="1" stop-color="#FF5CA8"/></linearGradient>
     <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -10,11 +10,11 @@
   <rect x="2" y="2" width="1196" height="164" rx="10" fill="none" stroke="url(#edge)" stroke-width="3"/>
   <g opacity=".18" stroke="#FFFFFF"><path d="M0 42H1200M0 84H1200M0 126H1200"/><path d="M100 0V168M300 0V168M500 0V168M700 0V168M900 0V168M1100 0V168"/></g>
   <circle cx="50" cy="49" r="6" fill="#FF5CA8" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></circle>
-  <text x="68" y="55" fill="#F5F5F5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="4">LIVE FROM THE CAVE</text>
+  <text x="68" y="55" fill="#F5F5F5" font-family="Noto Sans KR, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="3">동굴에서 송출 중</text>
   <g clip-path="url(#screen)">
-    <g font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="30" font-weight="900" letter-spacing="2">
+    <g font-family="Noto Sans KR, Arial Black, Arial, sans-serif" font-size="30" font-weight="900" letter-spacing="2">
       <text y="111" fill="#F5F5F5">
-        <tspan fill="#FF5CA8">CALM-ISH</tspan><tspan>  //  BUGS UNDER OBSERVATION  //  </tspan><tspan fill="#E7B72B">KARMA: CLEAN</tspan><tspan>  //  WORKING TREE: DON'T ASK  //  </tspan><tspan fill="#FF5CA8">CALM-ISH</tspan>
+        <tspan fill="#FF5CA8">대체로 평온</tspan><tspan>  //  버그 관찰 중  //  </tspan><tspan fill="#E7B72B">업보: 깨끗함</tspan><tspan>  //  작업 트리: 묻지 마세요  //  </tspan><tspan fill="#FF5CA8">대체로 평온</tspan>
         <animate attributeName="x" values="1180;-1680" dur="18s" repeatCount="indefinite"/>
       </text>
     </g>
