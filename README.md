@@ -16,9 +16,38 @@
   <img src="./assets/status-ticker.svg" alt="조용히 작업 중. 에러와 협상 중. 저장은 자주. 오늘도 한 픽셀 더." width="100%" />
 </p>
 
-  <img src="./assets/monk-os.svg" alt="MONK OS 공개 프로필 콘솔" width="100%" />
+## `PROFILE / TRACE`
 
-  <img src="./assets/activity-lotus.svg" alt="최근 공개 GitHub 활동을 기록한 KARMA LOG" width="100%" />
+- **2022–2025** · B.E. in Embedded Systems Engineering, Incheon National University
+- **2025–Present** · M.S. Student in Embedded Systems Engineering, Incheon National University
+- **Focus** · Computer Vision, structural and shape understanding, real-world visual inspection
+- **Languages** · Python · C · C++ · Java · SQL
+
+## `STUDY / ARCHIVE`
+
+### Undergraduate
+
+- [C Programming](https://github.com/subean-choi/inu-c-programming)
+- [Operating Systems](https://github.com/subean-choi/inu-operating-systems)
+- [Data Structures](https://github.com/subean-choi/inu-data-structures)
+- [Embedded Architecture](https://github.com/subean-choi/inu-embedded-architecture)
+
+### Teaching Assistant
+
+- [C Programming](https://github.com/subean-choi/ta-c-programming)
+- [Introduction to Embedded Systems](https://github.com/subean-choi/ta-intro-embedded-systems)
+- [Data Structures](https://github.com/subean-choi/ta-data-structures)
+
+### Master's Coursework
+
+- [Time Series Data Analysis](https://github.com/subean-choi/graduate-time-series-analysis)
+- [Computer Vision PBL](https://github.com/subean-choi/graduate-computer-vision-pbl)
+- [Next-Generation System Design](https://github.com/subean-choi/graduate-next-gen-system-design)
+- [Reinforcement Learning PBL](https://github.com/subean-choi/graduate-reinforcement-learning-pbl)
+
+<img src="./assets/monk-os.svg" alt="MONK OS 공개 프로필 콘솔" width="100%" />
+
+<img src="./assets/activity-lotus.svg" alt="최근 공개 GitHub 활동을 기록한 KARMA LOG" width="100%" />
 
 <a href="https://github.com/subean-choi/atmosphere">
   <img src="./assets/open-portal.svg" alt="atmosphere 프로젝트 열기" width="100%" />
