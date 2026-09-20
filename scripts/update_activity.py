@@ -65,8 +65,8 @@ def render(rows: list[tuple[datetime, int]]) -> str:
             labels.append(f'<text x="{x + 12:.1f}" y="344" text-anchor="middle" fill="#8B949E" font-size="11">{day.strftime("%m/%d")}</text>')
 
     return f'''<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Karma Log</title>
-  <desc id="desc">A cyber-zen ledger of recent public GitHub activity for {USER}.</desc>
+  <title id="title">공개 활동 기록</title>
+  <desc id="desc">최근 21일 동안의 공개 GitHub 활동 기록입니다.</desc>
   <defs>
     <pattern id="ledger" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0H0V29" fill="none" stroke="#30363D" opacity=".28"/></pattern>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF5CA8"/><stop offset="1" stop-color="#E7B72B"/></linearGradient>
@@ -78,15 +78,15 @@ def render(rows: list[tuple[datetime, int]]) -> str:
   <rect x="2" y="2" width="1196" height="416" rx="10" fill="url(#ledger)" clip-path="url(#frame)"/>
   <path d="M2 2H1198" stroke="url(#edge)" stroke-width="8"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="48" y="58" fill="#8B949E" font-size="14" font-weight="700" letter-spacing="5">02 / 공개 신호</text>
-    <text x="48" y="113" fill="#F0F6FC" font-size="46" font-weight="900" letter-spacing="-1">KARMA LOG</text>
+    <text x="48" y="58" fill="#8B949E" font-size="14" font-weight="700" letter-spacing="5">03 / 활동 기록</text>
+    <text x="48" y="113" fill="#F0F6FC" font-size="46" font-weight="900" letter-spacing="-1">공개 활동 기록</text>
     <text x="50" y="144" fill="#FF5CA8" font-family="Noto Sans KR, Arial, sans-serif" font-size="14" letter-spacing="2">최근 21일 / 공개 활동 {total:02d}건</text>
     <text x="1150" y="57" text-anchor="end" fill="#8B949E" font-family="Noto Sans KR, Arial, sans-serif" font-size="12">갱신 {updated}</text>
   </g>
   <g>{''.join(bars)}</g>
   <g font-family="Courier New, monospace">{''.join(labels)}</g>
   <path d="M48 365H976" stroke="#30363D" stroke-width="2"/>
-  <text x="48" y="394" fill="#C9D1D9" font-family="Noto Sans KR, Arial, sans-serif" font-size="14" letter-spacing="2">커밋은 쌓이고 / 기록은 남고 / 업보는 자동 갱신</text>
+  <text x="48" y="394" fill="#C9D1D9" font-family="Noto Sans KR, Arial, sans-serif" font-size="14" letter-spacing="2">최근 21일의 공개 이벤트를 날짜별로 집계합니다</text>
 
   <g transform="translate(1030 172)">
     <circle cx="54" cy="62" r="68" fill="#FF5CA8" opacity=".08" filter="url(#glow)"/>
@@ -115,3 +115,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
