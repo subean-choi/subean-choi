@@ -6,8 +6,8 @@
 <p align="center"><code>computer vision, but make it zen.</code></p>
 <p align="center">구조를 읽고 · 관계를 모델링하고 · 차이를 검증합니다</p>
 
-<img src="./assets/monk-os.svg" width="100%" alt="최수빈 연구 프로필"/>
-<img src="./assets/study-archive.svg" width="100%" alt="학습 아카이브"/>
+<img src="./assets/monk-os.svg?v=20260920-2" width="100%" alt="최수빈 연구 프로필"/>
+<img src="./assets/study-archive.svg?v=20260920-2" width="100%" alt="학습 아카이브"/>
 
 <details>
 <summary><strong>저장소 목록 펼치기</strong></summary>
@@ -32,12 +32,11 @@
 
 </details>
 
-<img src="./assets/activity-lotus.svg" width="100%" alt="최근 GitHub 공개 활동"/>
+<img src="./assets/activity-lotus.svg?v=20260920-2" width="100%" alt="최근 GitHub 공개 활동"/>
 
 <a href="https://github.com/subean-choi/atmosphere">
-  <img src="./assets/open-portal.svg" width="100%" alt="Atmosphere 프로젝트"/>
+  <img src="./assets/open-portal.svg?v=20260920-2" width="100%" alt="Atmosphere 프로젝트"/>
 </a>
 
 <br />
 <p align="center"><img src="./assets/lotus-mark.svg" width="56" alt="연꽃"/><br/><sub>복잡함은 덜고 · 관찰은 깊게 · 결과는 선명하게</sub></p>
-
