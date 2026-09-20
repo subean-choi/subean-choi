@@ -10,7 +10,7 @@ from pathlib import Path
 
 USER = "subean-choi"
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "assets" / "activity-lotus.svg"
+OUT = ROOT / "assets" / "activity-stream.svg"
 COLORS = ["#FF5CA8", "#E7B72B", "#F0F6FC"]
 
 
@@ -115,4 +115,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
