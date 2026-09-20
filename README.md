@@ -32,7 +32,7 @@
 
 </details>
 
-<img src="./assets/activity-lotus.svg?v=20260920-2" width="100%" alt="최근 GitHub 공개 활동"/>
+<img src="./assets/activity-stream.svg" width="100%" alt="최근 GitHub 공개 활동"/>
 
 <a href="https://github.com/subean-choi/atmosphere">
   <img src="./assets/open-portal.svg?v=20260920-2" width="100%" alt="Atmosphere 프로젝트"/>
