@@ -25,7 +25,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/activity-lotus.svg
+          git add assets/activity-stream.svg
           git diff --cached --quiet || git commit -m "Refresh karma log"
           git push
-
