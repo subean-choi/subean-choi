@@ -1,11 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
-<defs><pattern id="d" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#283142"/></pattern><linearGradient id="a"><stop stop-color="#ff4fa3"/><stop offset=".55" stop-color="#f49b42"/><stop offset="1" stop-color="#f2cf42"/></linearGradient></defs>
-<rect width="1200" height="470" rx="22" fill="#0d1117"/><rect width="1200" height="470" rx="22" fill="url(#d)"/><rect width="1200" height="6" fill="url(#a)"/>
-<text x="58" y="58" fill="#8b96a8" font-family="monospace" font-size="17" letter-spacing="5">02 / KNOWLEDGE SYSTEM</text>
-<text x="58" y="122" fill="#f5f7fa" font-family="Arial" font-size="46" font-weight="800">STUDY ARCHIVE</text>
-<text x="58" y="158" fill="#ff5ca8" font-family="monospace" font-size="19">COURSE NOTES · CODE · PAPER REVIEWS · TA MATERIALS</text>
-<rect x="58" y="205" width="330" height="190" rx="14" fill="#121824" stroke="#333e50"/><text x="84" y="244" fill="#f2cf42" font-family="monospace" font-size="15">UNDERGRADUATE / 04</text><text x="84" y="286" fill="#f5f7fa" font-family="Arial" font-size="25" font-weight="700">FOUNDATIONS</text><text x="84" y="326" fill="#9da7b8" font-family="monospace" font-size="16">C · OS · DATA STRUCTURES</text><text x="84" y="354" fill="#9da7b8" font-family="monospace" font-size="16">EMBEDDED ARCHITECTURE</text>
-<rect x="435" y="205" width="330" height="190" rx="14" fill="#121824" stroke="#333e50"/><text x="461" y="244" fill="#ff5ca8" font-family="monospace" font-size="15">TEACHING ASSISTANT / 03</text><text x="461" y="286" fill="#f5f7fa" font-family="Arial" font-size="25" font-weight="700">KNOWLEDGE TRANSFER</text><text x="461" y="326" fill="#9da7b8" font-family="monospace" font-size="16">REVIEW · PRACTICE · Q&amp;A</text><text x="461" y="354" fill="#9da7b8" font-family="monospace" font-size="16">PII-REDACTED ARCHIVE</text>
-<rect x="812" y="205" width="330" height="190" rx="14" fill="#121824" stroke="#333e50"/><text x="838" y="244" fill="#f49b42" font-family="monospace" font-size="15">MASTER'S / 04</text><text x="838" y="286" fill="#f5f7fa" font-family="Arial" font-size="25" font-weight="700">ADVANCED STUDY</text><text x="838" y="326" fill="#9da7b8" font-family="monospace" font-size="16">VISION · TIME SERIES · RL</text><text x="838" y="354" fill="#9da7b8" font-family="monospace" font-size="16">NEXT-GEN SYSTEMS</text>
-<text x="58" y="434" fill="#596579" font-family="monospace" font-size="14">11 public repositories · full learning content restored</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img">
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#2d3748"/></pattern><linearGradient id="edge"><stop stop-color="#ff4fa3"/><stop offset=".55" stop-color="#f08b45"/><stop offset="1" stop-color="#f2cf42"/></linearGradient></defs>
+<rect width="1200" height="410" rx="18" fill="#0d1117"/><rect width="1200" height="410" rx="18" fill="url(#dots)"/><rect width="1200" height="5" fill="url(#edge)"/>
+<text x="52" y="52" fill="#8b96a8" font-family="Noto Sans KR,Arial" font-size="15" letter-spacing="4">02 / 학습 아카이브</text>
+<text x="52" y="112" fill="#f5f7fa" font-family="Noto Sans KR,Arial" font-size="40" font-weight="800">배운 것을 기록하고 다시 꺼내 씁니다</text>
+<text x="52" y="150" fill="#ff5ca8" font-family="Noto Sans KR,Arial" font-size="18">전체 필기 · 실습 코드 · 논문 정리 · TA 자료</text>
+<g font-family="Noto Sans KR,Arial">
+ <rect x="52" y="194" width="340" height="154" rx="14" fill="#131925" stroke="#333e50"/>
+ <text x="78" y="230" fill="#f2cf42" font-size="15">학부 전공 · 4개</text><text x="78" y="271" fill="#f5f7fa" font-size="25" font-weight="700">기초를 구현으로</text><text x="78" y="309" fill="#9da7b8" font-size="16">C · 운영체제 · 자료구조 · 임베디드</text>
+ <rect x="430" y="194" width="340" height="154" rx="14" fill="#131925" stroke="#333e50"/>
+ <text x="456" y="230" fill="#ff5ca8" font-size="15">TA · 3개</text><text x="456" y="271" fill="#f5f7fa" font-size="25" font-weight="700">설명하고 함께 풀기</text><text x="456" y="309" fill="#9da7b8" font-size="16">복습 · 실습 · 질의응답</text>
+ <rect x="808" y="194" width="340" height="154" rx="14" fill="#131925" stroke="#333e50"/>
+ <text x="834" y="230" fill="#f08b45" font-size="15">석사 전공 · 4개</text><text x="834" y="271" fill="#f5f7fa" font-size="25" font-weight="700">논문에서 실험까지</text><text x="834" y="309" fill="#9da7b8" font-size="16">비전 · 시계열 · 강화학습 · 시스템</text>
+</g>
+<circle cx="370" cy="194" r="4" fill="#f2cf42"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="748" cy="194" r="4" fill="#ff5ca8"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="1126" cy="194" r="4" fill="#f08b45"><animate attributeName="opacity" values=".2;1;.2" dur="3.2s" repeatCount="indefinite"/></circle>
+<rect x="0" y="0" width="1200" height="2" fill="#f2cf42" opacity="0"><animate attributeName="y" values="6;404;6" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.25;0" dur="10s" repeatCount="indefinite"/></rect>
 </svg>
