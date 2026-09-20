@@ -2,12 +2,9 @@ name: refresh karma log
 
 on:
   schedule:
-    - cron: "17 18 * * *"
+    - cron: "17 */6 * * *"
   workflow_dispatch:
   push:
-    paths:
-      - "scripts/update_activity.py"
-      - ".github/workflows/refresh-activity.yml"
 
 permissions:
   contents: write
@@ -31,3 +28,4 @@ jobs:
           git add assets/activity-lotus.svg
           git diff --cached --quiet || git commit -m "Refresh karma log"
           git push
+
